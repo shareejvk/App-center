@@ -1,0 +1,9 @@
+{
+  "DEFAULT_LANG": "en",
+  "modules": [
+    {"name": "main"},
+    {"name": "lang"},
+    {"name": "home","navBar" : true}
+  ],
+  "langs": ["en"]
+}
